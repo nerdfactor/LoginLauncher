@@ -29,7 +29,8 @@ Windows Registry Editor Version 5.00
 <kbd> <img src="https://github.com/nerdfactor/LoginLauncher/assets/214934/971c2376-980a-45bb-a6ec-795f6a963081" /> </kbd>
 
 
-
+## Security Considerations
+The launcher will run the application with the same privileges as the SYSTEM account. Therefore, it is recommended to only use this launcher with applications that are trusted and secure. The launcher itself does not have any security features and will run any application that is passed to it.
 
 
 
