@@ -26,7 +26,7 @@ Windows Registry Editor Version 5.00
 .\LoginLauncher.exe "C:\Windows\System32\cmd.exe"
 ```
 
-<kbd> <img src="" /> </kbd>
+<kbd> <img src="https://github.com/nerdfactor/LoginLauncher/assets/214934/971c2376-980a-45bb-a6ec-795f6a963081" /> </kbd>
 
 
 
